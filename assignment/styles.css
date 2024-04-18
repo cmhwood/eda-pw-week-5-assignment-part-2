@@ -1,0 +1,16 @@
+.headHeader {
+  background-color: darkslategrey;
+  color: orange;
+  text-align: center;
+}
+
+.mainMain {
+  background-color: lightgrey;
+  padding: 1em;
+}
+
+body {
+  background-image: url(record.png);
+  background-repeat: repeat;
+  margin: 0;
+}
